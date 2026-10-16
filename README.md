@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="assets/hero.svg" width="100%" alt="Hengyu 的个人实验室：Knowledge, in motion. 专注应用 AI、文档智能与中医知识工程。" />
+<img src="assets/hero.svg" width="100%" alt="Hengyu 的个人实验室：Knowledge, in motion. 关注大模型算法、多模态算法、RAG 与医疗 AI。" />
 
-**你好，我是 Hengyu。把文档里的知识，变成可以追溯和复核的数据。**
+**你好，我是 Hengyu。关注大模型算法 / 多模态算法 / RAG / 医疗 AI。**
 
 [项目 · Projects](#01--正在构建) &nbsp; / &nbsp; [方向 · Focus](#02--关注的方向) &nbsp; / &nbsp; [工具 · Toolkit](#03--工作工具) &nbsp; / &nbsp; [交流 · Connect](#04--一起讨论)
 
@@ -22,18 +22,18 @@
 
 `文档解析` · `结构化抽取` · `证据追溯` · `人工复核` · `提示词进化`
 
+<img src="assets/pipeline.svg" width="100%" alt="当前项目的知识处理闭环：阅读原文 → 规划 → 抽取 → 核验 → 反馈优化。" />
+
 <br />
 
 ## 02 / 关注的方向
 
-<img src="assets/pipeline.svg" width="100%" alt="知识处理闭环：阅读原文 → 规划 → 抽取 → 核验 → 反馈优化。" />
-
-| 方向 | 我正在做的事 |
+| 方向 | 关注内容 |
 | :--- | :--- |
-| **Document Intelligence** | 让长文档、表格和图片进入同一条可检查的处理流程。 |
-| **Knowledge Engineering** | 保留原文、页码与记录之间的联系，让结果有据可查。 |
-| **Applied LLM Systems** | 组织模型分工、工件状态与重跑机制，把调用变成系统。 |
-| **TCM + AI** | 探索中医药知识的结构化表达，并为专业人员保留复核入口。 |
+| **大模型算法 · LLM Algorithms** | 关注模型训练与适配、推理能力优化，以及可靠的效果评估。 |
+| **多模态算法 · Multimodal Learning** | 关注文本、图像等模态之间的理解、对齐与融合。 |
+| **RAG · 检索增强生成** | 关注知识检索、上下文组织，以及有来源支撑的生成结果。 |
+| **医疗 AI · Medical AI** | 关注大模型与多模态技术在医疗场景中的应用、验证与安全边界。 |
 
 > 先保留证据，再判断结果。自动核验后，仍然需要人工复核。
 
@@ -55,7 +55,7 @@
 
 ## 04 / 一起讨论
 
-如果你也在做文档抽取、知识工程或中医 AI，欢迎从一个具体问题开始交流。
+如果你也关注大模型算法、多模态算法、RAG 或医疗 AI，欢迎从一个具体问题开始交流。
 
 **[查看项目](https://github.com/xiaohengyu8226-png/tcm-extract-engine)** &nbsp; · &nbsp; **[提交问题或建议](https://github.com/xiaohengyu8226-png/tcm-extract-engine/issues)** &nbsp; · &nbsp; **[浏览公开仓库](https://github.com/xiaohengyu8226-png?tab=repositories)**
 
