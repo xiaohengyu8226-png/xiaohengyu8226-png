@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="80" viewBox="0 0 1200 80" role="img" aria-label="Less guesswork. More evidence.">
+<title>Less guesswork. More evidence.</title>
+<defs>
+  <pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse"><path d="M36 0H0V36" fill="none" stroke="#244039" stroke-width=".6" opacity=".45"/></pattern>
+  <radialGradient id="halo"><stop stop-color="#285a43" stop-opacity=".55"/><stop offset="1" stop-color="#0b1514" stop-opacity="0"/></radialGradient>
+</defs>
+<style>
+ .mono {font-family:'Cascadia Code',Consolas,'Liberation Mono',monospace;}
+ .serif {font-family:Georgia,'Times New Roman',serif;}
+ .sans {font-family:Arial,'Microsoft YaHei',sans-serif;}
+ .flow {stroke-dasharray:7 12;animation:flow 8s linear infinite;}
+ .pulse {animation:pulse 4s ease-in-out infinite;}
+ @keyframes flow {to {stroke-dashoffset:-190;}}
+ @keyframes pulse {0%,100% {opacity:.35;} 50% {opacity:1;}}
+ @media(prefers-reduced-motion:reduce) {.flow,.pulse {animation:none;}}
+</style>
+
+<rect width="1200" height="80" rx="12" fill="#0b1514"/>
+<path d="M28 40H222M978 40h194" stroke="#3d6243" class="flow"/>
+<circle cx="28" cy="40" r="3" fill="#b2f178"/>
+<circle cx="1172" cy="40" r="3" fill="#b2f178"/>
+<text x="600" y="45" fill="#a8c48d" text-anchor="middle" font-size="13" letter-spacing="2" class="mono">LESS GUESSWORK. MORE EVIDENCE.</text>
+
+</svg>

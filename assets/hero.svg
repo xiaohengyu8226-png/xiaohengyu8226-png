@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="460" viewBox="0 0 1200 460" role="img" aria-label="Hengyu personal lab. Knowledge, in motion. Applied AI, document intelligence and TCM.">
+<title>Hengyu personal lab. Knowledge, in motion. Applied AI, document intelligence and TCM.</title>
+<defs>
+  <pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse"><path d="M36 0H0V36" fill="none" stroke="#244039" stroke-width=".6" opacity=".45"/></pattern>
+  <radialGradient id="halo"><stop stop-color="#285a43" stop-opacity=".55"/><stop offset="1" stop-color="#0b1514" stop-opacity="0"/></radialGradient>
+</defs>
+<style>
+ .mono {font-family:'Cascadia Code',Consolas,'Liberation Mono',monospace;}
+ .serif {font-family:Georgia,'Times New Roman',serif;}
+ .sans {font-family:Arial,'Microsoft YaHei',sans-serif;}
+ .flow {stroke-dasharray:7 12;animation:flow 8s linear infinite;}
+ .pulse {animation:pulse 4s ease-in-out infinite;}
+ @keyframes flow {to {stroke-dashoffset:-190;}}
+ @keyframes pulse {0%,100% {opacity:.35;} 50% {opacity:1;}}
+ @media(prefers-reduced-motion:reduce) {.flow,.pulse {animation:none;}}
+</style>
+
+<rect width="1200" height="460" rx="18" fill="#0b1514"/>
+<rect x="1" y="1" width="1198" height="458" rx="17" fill="none" stroke="#294239"/>
+<path d="M40 42h22M40 42v22M1160 42h-22M1160 42v22M40 418h22M40 418v-22M1160 418h-22M1160 418v-22" stroke="#a7e86b" stroke-width="1.5" fill="none"/>
+<rect x="700" y="32" width="450" height="370" fill="url(#grid)"/>
+<ellipse cx="940" cy="225" rx="250" ry="215" fill="url(#halo)"/>
+<circle cx="68" cy="76" r="4" fill="#b2f178" class="pulse"/>
+<text x="84" y="81" fill="#b2f178" font-size="12" letter-spacing="2" class="mono">HENGYU / PERSONAL LAB</text>
+<text x="62" y="189" fill="#f0f0dc" font-size="92" letter-spacing="-4" class="serif">Knowledge,</text>
+<text x="62" y="280" fill="#b2f178" font-size="92" letter-spacing="-4" font-style="italic" class="serif">in motion.</text>
+<text x="66" y="326" fill="#b2c9bc" font-size="17" class="mono">Applied AI · Document Intelligence · TCM</text>
+<path d="M66 352h590" stroke="#2c4238"/>
+<text x="66" y="382" fill="#829b8e" font-size="12" letter-spacing="1.2" class="mono">READ THE SOURCE. TRACE THE EVIDENCE. BUILD THE SYSTEM.</text>
+<g transform="translate(936 220)">
+ <circle r="139" fill="none" stroke="#304d3e"/>
+ <circle r="112" fill="none" stroke="#476647" stroke-dasharray="2 9"/>
+ <path d="M-139 0H139M0-139V139" stroke="#243c31"/>
+ <path d="M0-139A139 139 0 0 1 139 0" stroke="#b2f178" stroke-width="2" fill="none" class="flow"/>
+ <path d="M-90 43L0 76L90 43V-35L0-5L-90-35Z" fill="#10291e" stroke="#85bc72" stroke-width="1.4"/>
+ <path d="M0-5V76M-90-35L0-63L90-35" stroke="#85bc72" stroke-width="1.4" fill="none"/>
+ <path d="M-71-10L-17 9M-71 6L-17 25M-71 22L-17 41M17 9L71-10M17 25L71 6M17 41L71 22" stroke="#4e7550"/>
+ <path d="M0-23V-99M0-53C-39-53-47-79-40-93C-19-94 0-77 0-53M0-72C34-72 46-95 38-109C15-108 0-94 0-72" fill="#193e29" stroke="#b2f178" stroke-width="1.7"/>
+ <circle cx="-139" r="5" fill="#e0ac65"/><circle cx="139" r="5" fill="#b2f178" class="pulse"/>
+ <circle cy="139" r="4" fill="#b2f178"/>
+ <path d="M-139 0h-44v-76h-35M139 0h34v79h28" fill="none" stroke="#648e60" stroke-width="1.2"/>
+ <rect x="-222" y="-81" width="8" height="8" fill="#e0ac65"/>
+ <circle cx="203" cy="79" r="4" fill="#b2f178"/>
+</g>
+<text x="833" y="400" fill="#718f7c" font-size="11" letter-spacing="2" class="mono">SOURCE → STRUCTURE → KNOWLEDGE</text>
+
+</svg>

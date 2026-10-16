@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="295" viewBox="0 0 1200 295" role="img" aria-label="Featured project: tcm-extract-engine. Python, FastAPI, Pydantic, Web and CLI. Explore the repository.">
+<title>Featured project: tcm-extract-engine. Python, FastAPI, Pydantic, Web and CLI. Explore the repository.</title>
+<defs>
+  <pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse"><path d="M36 0H0V36" fill="none" stroke="#244039" stroke-width=".6" opacity=".45"/></pattern>
+  <radialGradient id="halo"><stop stop-color="#285a43" stop-opacity=".55"/><stop offset="1" stop-color="#0b1514" stop-opacity="0"/></radialGradient>
+</defs>
+<style>
+ .mono {font-family:'Cascadia Code',Consolas,'Liberation Mono',monospace;}
+ .serif {font-family:Georgia,'Times New Roman',serif;}
+ .sans {font-family:Arial,'Microsoft YaHei',sans-serif;}
+ .flow {stroke-dasharray:7 12;animation:flow 8s linear infinite;}
+ .pulse {animation:pulse 4s ease-in-out infinite;}
+ @keyframes flow {to {stroke-dashoffset:-190;}}
+ @keyframes pulse {0%,100% {opacity:.35;} 50% {opacity:1;}}
+ @media(prefers-reduced-motion:reduce) {.flow,.pulse {animation:none;}}
+</style>
+
+<rect width="1200" height="295" rx="16" fill="#101c19"/>
+<rect x="1" y="1" width="1198" height="293" rx="15" fill="none" stroke="#35513d"/>
+<rect x="34" y="32" width="106" height="23" rx="4" fill="#b2f178"/>
+<text x="87" y="48" fill="#152b1c" font-size="10" text-anchor="middle" letter-spacing="1" class="mono">IN THE LAB</text>
+<text x="34" y="110" fill="#f0f0dc" font-size="38" class="serif">tcm-extract-engine</text>
+<text x="36" y="147" fill="#a5bbae" font-size="15" class="mono">From medical literature to traceable knowledge.</text>
+<text x="36" y="180" fill="#7f9a88" font-size="13" class="mono">PDF / Markdown · C/A/B Pipeline · Evidence Review · GEPA</text>
+<path d="M36 207H760" stroke="#2e4838"/>
+<text x="36" y="247" fill="#b2f178" font-size="12" letter-spacing="1" class="mono">PYTHON / FASTAPI / PYDANTIC / WEB + CLI</text>
+<g transform="translate(971 146)">
+ <path d="M-93-45L0-94L93-45L93 47L0 95L-93 47Z" stroke="#34583e" fill="none"/>
+ <path d="M-57-26L0-56L57-26V30L0 60L-57 30Z" stroke="#b2f178" stroke-width="1.6" fill="#152d20"/>
+ <path d="M-57-26L0 4L57-26M0 4V60" stroke="#6c9c65" fill="none"/>
+ <circle cy="-94" r="4" fill="#b2f178" class="pulse"/>
+ <circle cx="93" cy="47" r="4" fill="#e0ac65"/>
+ <circle cx="-93" cy="47" r="4" fill="#b2f178"/>
+ <path d="M-93-45L0-94L93-45L93 47L0 95L-93 47Z" stroke="#a9dc78" fill="none" class="flow"/>
+ <text y="11" text-anchor="middle" fill="#eaf4d2" font-size="19" class="mono">TCM</text>
+</g>
+<text x="1166" y="267" fill="#b2f178" text-anchor="end" font-size="11" class="mono">EXPLORE THE REPOSITORY ↗</text>
+
+</svg>
